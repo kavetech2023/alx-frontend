@@ -1,1 +1,1 @@
-<h2>alx-frontend</h2>
+<h1>alx-frontend</h1>
